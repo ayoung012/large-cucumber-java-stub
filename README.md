@@ -1,6 +1,6 @@
 ### A large cucumber project stub
 
-Generated with ayoung012/cucumber-project-generator, this stub is useful for basic profiling of
+Generated with https://github.com/ayoung012/cucumber-project-generator, this stub is useful for basic profiling of
 cucumber-jvm and supporting tools.
 
 It contains 1000 feature files with 10 scenarios each.
